@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "76138139611",
+    "firebase_url": "https://akhter-1af39-default-rtdb.firebaseio.com",
+    "project_id": "akhter-1af39",
+    "storage_bucket": "akhter-1af39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76138139611:android:e8ba8ff4d61f0d4bfa21fe",
+        "android_client_info": {
+          "package_name": "com.example.firebase_realdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76138139611-j0gl746al0nq6b6v62vo9sg5s987v3i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATVnOu_f1v4acjkHXLXuFsNGsuBp-hMUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76138139611-j0gl746al0nq6b6v62vo9sg5s987v3i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
